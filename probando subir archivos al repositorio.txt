@@ -1,0 +1,5 @@
+cree un nuevo usuarioy estoy subiendo este archivo para comprobar si efectivamente hay problemas para subir archivos al repositorio o no, 
+si ve este archivo entonces si se pueden subir archivos al repositorio si estas agregado como colaborador, para subir archivos
+- attach el archivo con los cambios
+- subirlo
+- hacer commit.
